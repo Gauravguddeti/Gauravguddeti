@@ -7,6 +7,13 @@
   ██║   ██║██╔══██║██║   ██║██╔══██╗██╔══██║╚██╗ ██╔╝
   ╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  
+
+   ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗████████╗██╗
+  ██╔════╝ ██║   ██║██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║
+  ██║  ███╗██║   ██║██║  ██║██║  ██║█████╗     ██║   ██║
+  ██║   ██║██║   ██║██║  ██║██║  ██║██╔══╝     ██║   ██║
+  ╚██████╔╝╚██████╔╝██████╔╝██████╔╝███████╗   ██║   ██║
+   ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D7CD8&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hey%2C+call+me+Badakh+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Gamer+%7C+Problem+Solver" alt="Typing SVG" />
@@ -87,25 +94,6 @@ const currentStatus = {
 
 </div>
 
-<div align="center">
-  
-![Marvel](https://media.giphy.com/media/xT9IgpTy4UVnddmso0/giphy.gif)
-![Shinchan](https://media.giphy.com/media/3ohjV4XnEt9b6uVRra/giphy.gif)
-
-</div>
-
----
-
-### 🎵 Currently Jamming To
-
-<div align="center">
-
-[![Spotify](https://novatorem-theta-sandy.vercel.app/api/spotify)](https://open.spotify.com/track/0tQXd2HMnDZXd9gE6ngz4i)
-
-**🎶 On Repeat:** *Undressed - Sombr* (peak coding vibes)
-
-</div>
-
 ---
 
 ### 🏆 Achievements & Certifications
@@ -146,7 +134,7 @@ const currentStatus = {
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
 | 🤖 [ASL Vision](https://github.com/Gauravguddeti/ASLVision) | Teaching computers sign language (99.97% accurate, better than me at exams) | PyTorch, MediaPipe, OpenCV | ✅ Live |
-| 🎓 [RateMyProf.me](https://ratemyprof.me) | Rate profs anonymously (we all needed this) | React, Node.js, MongoDB | 🚀 Scaling |
+| 🎓 [RateMyProf.me](https://ratemyprof.me) | Rate profs anonymously (because we all need this) | React, Node.js, MongoDB | ✅ Live & Scaling |
 | 🧠 [SmartJEB](https://smartjeb.vercel.app) | My AI baby that's lowkey smarter than me | Next.js, AI/ML, Python | ✅ Live |
 | 🌐 [Portfolio](https://gauravguddeti.vercel.app) | Portfolio with Arc Reactor (too lazy to update, check LinkedIn instead 😅) | React, TypeScript, Framer Motion | ✅ Live |
 
@@ -206,10 +194,15 @@ const currentStatus = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Gauravguddeti&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravguddeti&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gauravguddeti&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=9d7cd8&icon_color=9d7cd8&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauravguddeti&theme=radical&hide_border=true&background=0d1117&ring=9d7cd8&fire=9d7cd8&currStreakLabel=9d7cd8" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravguddeti&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravguddeti&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9d7cd8&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauravguddeti&theme=react-dark&hide_border=true&bg_color=0d1117&color=9d7cd8&line=9d7cd8&point=c9d1d9&area=true&area_color=9d7cd8" alt="Contribution Graph" width="48%" />
 
 </div>
 
@@ -219,17 +212,7 @@ const currentStatus = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gauravguddeti&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-[![Gaurav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gauravguddeti&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gauravguddeti&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -242,6 +225,9 @@ const currentStatus = {
 > *"Could this code BE any more elegant?"* 💅
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
+
+**Chandler's Wisdom:**
+> *"I'm not so good with the advice... Can I interest you in a poorly optimized algorithm that somehow works?"* 😏
 
 </div>
 
