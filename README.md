@@ -243,9 +243,6 @@ const currentStatus = {
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
 
-**Chandler's Wisdom:**
-> *"I'm not so good with the advice... Can I interest you in a poorly optimized algorithm that somehow works?"* 😏
-
 </div>
 
 ---
